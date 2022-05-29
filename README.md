@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Z2CZ7teqaKtDLjlWsr/giphy.gif" width="700"/>
+</div>
 
-<!--
-**not1cyyy/not1cyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :book: About Me :
 
-Here are some ideas to get you started:
+- :telescope: I’m a student at the Higher National School of Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :seedling: A cybersecuroty enthusiast
+
+- :zap: In my free time, I write scripts and solve CTF challenges
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=not1cyyy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=not1cyyy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

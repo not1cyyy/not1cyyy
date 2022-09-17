@@ -6,7 +6,7 @@
 
 - :telescope: I’m a student at the Higher National School of Computer Science
 
-- :seedling: A cybersecuroty enthusiast
+- :seedling: A cybersecurity enthusiast
 
 - :zap: In my free time, I write scripts and solve CTF challenges
 

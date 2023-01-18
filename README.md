@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/Z2CZ7teqaKtDLjlWsr/giphy.gif" width="700"/>
 </div>
 
+
 ### :book: About Me :
 
 - :telescope: I’m a student at the Higher National School of Computer Science

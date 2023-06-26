@@ -6,7 +6,7 @@
 
 ### :book: About Me :
 
-- :telescope: I’m a student at the Higher National School of Computer Science
+- :telescope: I’m a Computer Science student
 
 - :seedling: Certified Penetration Tester 
 
@@ -20,6 +20,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=not1cyyy&show_icons=true&theme=dark" alt="not1cyyy" />
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=not1cyyy&count_private=true&theme=dark&line_height=30&hide=html&layout=default" alt="not1cyyy" />
 
 

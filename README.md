@@ -70,11 +70,24 @@
 
 ### :fire: My Stats :
 
+<div align="center">
+ 
+  
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=not1cyyy&theme=dark&background=000000)](https://git.io/streak-stats)
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=not1cyyy&show_icons=true&theme=dark" alt="not1cyyy" />
 <br />
 <br />
+  
+  
+  <br/>
+
+
+  </div>
+
+
 
 

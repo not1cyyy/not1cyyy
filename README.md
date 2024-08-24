@@ -11,7 +11,7 @@
 
 ### :book: About Me :
 
-- :telescope: I’m a Computer Science student
+- :telescope: I’m a Computer Science Graduate
 
 - :seedling: Certified Penetration Tester 
 

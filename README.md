@@ -1,11 +1,14 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dKfkOh8eJVg8buOq87/giphy.gif" width="873"/>
-  <h1 style="text-align: center;">Hey there! 👋</h1>
-</div>
 
-[![](https://raw.githubusercontent.com/not1cyyy/Animated-Messages/main/chat.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<!-- <div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtxdTJiN3F5dTZob2Z6NWdkM2RtZm9iYWx6NHQybXF3ZzZtcTFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TmxH7ZMn1aYE/giphy.gif" width="500"/>
+  -->
+  <!-- <h1 style="text-align: center;">Hey there! 👋</h1> -->
+  
+<!-- </div> -->
 
-<p align="center">
+<!-- [![](https://raw.githubusercontent.com/not1cyyy/Animated-Messages/main/chat.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
+
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="horizontal aqua line">
 </p>
 
@@ -58,21 +61,17 @@
 <p align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/solar.png" width="100%" alt="horizontal solar line">
 </p>
-
-### :fire: My Stats :
+-->
+<!-- ### :fire: My Stats : -->
 
 <div align="center">
  
   
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=not1cyyy&theme=dark&background=000000)](https://git.io/streak-stats)
-<br />
-<br />
-  
-  
-  <br/>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=not1cyyy&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not1cyyy&theme=high-contrast)](https://github.com/not1cyyy/github-readme-activity-graph)
 
   </div>
 

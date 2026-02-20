@@ -71,7 +71,7 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=not1cyyy&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not1cyyy&theme=high-contrast&custom_title=Depression%20Graph)](https://github.com/not1cyyy/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not1cyyy&theme=high-contrast)](https://github.com/not1cyyy/github-readme-activity-graph)
 
   </div>
 

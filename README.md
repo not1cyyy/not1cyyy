@@ -69,7 +69,7 @@
   
 
 
-<img src="https://media.tenor.com/j1HZ3bN5X5sAAAAi/animr-anime-girl.gif" width="300"/>
+<img src="https://media.tenor.com/j1HZ3bN5X5sAAAAi/animr-anime-girl.gif" width="200"/>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not1cyyy&theme=high-contrast)](https://github.com/not1cyyy/github-readme-activity-graph)
 

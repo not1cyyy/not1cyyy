@@ -69,9 +69,11 @@
   
 
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=not1cyyy&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<img src="https://media.tenor.com/j1HZ3bN5X5sAAAAi/animr-anime-girl.gif" width="300"/>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not1cyyy&theme=high-contrast)](https://github.com/not1cyyy/github-readme-activity-graph)
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=not1cyyy&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
   </div>
 
